@@ -3,17 +3,22 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "newStorageAccountName": {
-      "value": "myStorageAccount"
+      "value": "mdjaenuddinstore1"
     },
     "adminUsername": {
-      "value": "admin123"
+      "value": "mdjaenuddin"
     },
     "adminPassword": {
-      "value": "ADmin123_!"
+      "value": "abuh41dar"
     },
     "dnsNameForPublicIP": {
-      "value": "myDnsName"
+      "value": "trainingazure"
+    },
+    "location": {
+      "value": "West US"
+    },
+    "sizeOfDiskInGB": {
+      "value": "20"
     }
   }
 }
-
